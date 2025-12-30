@@ -1,8 +1,8 @@
 {
   "esquema": 1,
-  "versión": "20251230T133907Z",
+  "versión": "20251230T133955Z",
   "archivo": "datos.json.gz",
   "tipo_de_contenido": "application/gzip",
-  "sha256": "25f822eca364a40ada4b84ecb0eff2e211994efbda9328508427e52cda7f1ed2",
-  "generado_en": "2025-12-30T13:39:07Z"
+  "sha256": "acdd3476679aa7ff7ef2ecef542510b4f72cc1455853ea395682467f93996565",
+  "generado_en": "2025-12-30T13:39:55Z"
 }
